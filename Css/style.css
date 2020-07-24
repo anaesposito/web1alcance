@@ -256,7 +256,12 @@ section.how-to blockquote p.credit::before {
   top: -1px;
   left: 0;
 }
-
+section.how-to img {
+  align-content: center;
+}
+.tienda {
+  align-items: center;
+}
 /* Navigation */
 
 nav {
